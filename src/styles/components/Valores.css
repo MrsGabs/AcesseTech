@@ -1,0 +1,21 @@
+.valores-container {
+    margin: 4rem 0;
+    margin-top: 8rem;
+}
+.valores-container .card{
+    width: 18rem;
+    padding: 0;
+}
+
+.valores-container .card img{
+    aspect-ratio: 5/3;
+    object-fit: cover;
+}
+
+
+
+@media (max-width:770px) {
+    .valores-container .card{
+        width: 100%;
+    }    
+}

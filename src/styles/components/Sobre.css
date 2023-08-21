@@ -1,0 +1,15 @@
+
+.sobre-container img{
+    max-width: 600px;
+    flex: 0.4;
+}
+
+.sobre-container p{
+    flex: 0.6;
+}
+
+.sobre-container .col{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+}

@@ -1,0 +1,9 @@
+.contato-container{
+    width: 100%;
+    color: white;
+    background-color: rgb(87, 87, 87);
+}
+
+.contato-container h2{
+    padding-top: 2rem ;
+}

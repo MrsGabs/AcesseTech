@@ -1,0 +1,10 @@
+h2{
+    margin-top: 12rem;
+}
+
+.arrow-banner{
+    position: absolute;
+    left: calc(100% / 2);
+    font-size: 40px;
+    margin: 2rem 0;
+}
